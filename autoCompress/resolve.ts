@@ -1,10 +1,4 @@
 /*
- * Vencord, a Discord client mod
- * Copyright (c) 2025 Vendicated and contributors
- * SPDX-License-Identifier: GPL-3.0-or-later
- */
-
-/*
  * This file exists purely to avoid reliance on ffmpeg/ffprobe being in the system path
  * not a big fan of path based resolution
  */
