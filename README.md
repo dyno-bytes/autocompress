@@ -19,4 +19,4 @@
 - set a limit a bit below your ideal size
 - ensure you set a realistic time limit 
 - lower resolution scaling can help encoding speed & artifacting 
-- ffmpeg will likely utilize the majority of your cpu when compressing as this plugin currently only does software encoding, hardware encoding may happen later if i get aroudn to it
+- ffmpeg will likely utilize the majority of your cpu when compressing as this plugin currently only does software encoding, support for hardware accel may happen eventually (but probably not)
